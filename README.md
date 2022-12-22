@@ -126,3 +126,8 @@ Read more about the above in the [Alchemy SDK Surface docs](https://docs.alchemy
 - What transfers did an address receive this year?
 
 Good luck and have fun!
+
+# Thank you!
+
+[![JP Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcampaya/)
+[![JP Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xJayPi)
